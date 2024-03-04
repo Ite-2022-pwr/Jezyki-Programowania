@@ -12,3 +12,6 @@ Informatyka techniczna, semestr 3, zima 2023
 - [lab06](lab06.md) - gniazda sieciowe (sockets)
 - [lab07](lab07.md) - RMI
 
+## Grupy [dr inż. Norberta Kozłowskiego](https://kozlov.ski/)
+
+- [Jan Napieralski](https://github.com/Ite-2022-pwr/sem3-jp-lab-jn/tree/main)
