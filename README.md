@@ -15,3 +15,7 @@ Informatyka techniczna, semestr 3, zima 2023
 ## Grupy [dr inż. Norberta Kozłowskiego](https://kozlov.ski/)
 
 - [Jan Napieralski](https://github.com/Ite-2022-pwr/sem3-jp-lab-jn/tree/main)
+
+## Grupy [dr inż. Tomasza Babczyńskiego](https://wit.pwr.edu.pl/wydzial/struktura-organizacyjna/pracownicy/tomasz-babczynski)
+
+- [Małgorzata Skowron](https://github.com/Ite-2022-pwr/sem3-jp-lab-ms)
