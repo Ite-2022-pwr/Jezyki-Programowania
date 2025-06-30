@@ -7,6 +7,7 @@ Prowadzący: [dr inż. Tomasz Kubik](http://tomasz.kubik.staff.iiar.pwr.wroc.pl/
 - [Miłosz Bedryło](https://github.com/Ite-2022-pwr/sem3-jp-lab02-mb)
 - [Artur Kręgiel](https://github.com/Ite-2022-pwr/sem3-jp-lab02-ak)
 - [Paulina Korus](https://github.com/Ite-2022-pwr/sem3-jp-lab02-pk)
+- [Dawid Jabłoński](https://github.com/Ite-2022-pwr/sem3-jp-lab-dj/tree/master/Labolatoria%202)
 
 ## Treść Zadania
 
